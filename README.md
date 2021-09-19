@@ -15,4 +15,4 @@ I'm excited to see what else the Tech world can offer and I can impact the futur
 
 ---
 
-Find me on <a href = ""https://www.linkedin.com/in/tobysmith27"> Linked In! </a>
+Find me on <a href = "https://www.linkedin.com/in/tobysmith27"> Linked In! </a>
