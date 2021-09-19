@@ -11,14 +11,14 @@ I'm excited to see what else the Tech world can offer and I can impact the futur
 
 🧰 Toolbox
 
-<img href = "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt = "JavaScript"/>
-<img href = "https://cdn.worldvectorlogo.com/logos/html-1.svg" alt = "HTML" />
-<img href = "https://cdn.worldvectorlogo.com/logos/react-2.svg" alt = "React" />
-<img href = "https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt = "NodeJS" />
-<img href = "https://cdn.worldvectorlogo.com/logos/css-3.svg" alt = "CSS" />
-<img href = "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt = "Mongo DB" />
-<img href = "https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt = "FireBase" />
-<img href = "https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt = "Material-UI" />
+<img src = "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt = "JavaScript"/>
+<img src = "https://cdn.worldvectorlogo.com/logos/html-1.svg" alt = "HTML" />
+<img src = "https://cdn.worldvectorlogo.com/logos/react-2.svg" alt = "React" />
+<img src = "https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt = "NodeJS" />
+<img src = "https://cdn.worldvectorlogo.com/logos/css-3.svg" alt = "CSS" />
+<img src = "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt = "Mongo DB" />
+<img src = "https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt = "FireBase" />
+<img src = "https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt = "Material-UI" />
 
 ---
 
